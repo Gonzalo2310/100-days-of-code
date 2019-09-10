@@ -12,6 +12,6 @@
 
 **Thoughts:** The result and progress has been less than expected. The functionality that had to be developed is not complete yet. It is necessary to increase the concentration in the project. 
 
-**Link to material added in samples** [Commit] (https://github.com/Gonzalo2310/i18nEdit/commit/0bc3db3677861ee7f1bf43d9591f1cc7ab60963f)
+**Link to material added in samples** [Commit](https://github.com/Gonzalo2310/i18nEdit/commit/0bc3db3677861ee7f1bf43d9591f1cc7ab60963f)
 
 **Link to work:** [Commit Day 02](https://github.com/Gonzalo2310/i18nEdit/commit/1e974f0047af59b112e86f2cbb02fc421696a54f)
