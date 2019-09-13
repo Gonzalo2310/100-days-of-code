@@ -29,3 +29,15 @@
 **Thoughts:** Today we have returned a little to the frustration of mishandled promises. This is an important stumbling block at a time when I need agility.
 
 **Link to work:** [Commit Day 04](https://github.com/Gonzalo2310/i18nEdit/commit/d616f64244e8795c6555fa2b9988a3ad9db0d6c2)
+
+### Day 5: September 13, Friday, 2019
+**Today's Progress**: Without success in the way of the previous day has changed strategy. In the end it's a good thing because the performance can improve that way.
+
+The content that is not obtained immediately will be passed to obtain upon request in the use of the tree. This will avoid loading content that will never be used / consulted.
+
+A "decent" visual result has been achieved. And it has been possible to verify that the function is recursive in a correct way.
+
+**Thoughts:** Now I've got the bifurcated road. I must choose properly where to turn first. 
+If I improve the existing code, create a system of variables for predefined values that later must be altered by the user or if I go ahead with the improvement of the object obtained from the result of the recursive function.
+
+**Link to work:** [Commit Day 05](https://github.com/Gonzalo2310/i18nEdit/commit/020d3b1c4b22da237c293e145bc034bcf74e6e89)
