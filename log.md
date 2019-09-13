@@ -22,3 +22,10 @@
 **Thoughts:** Problems with promises. I have to practice them more. You get the expected results but you have to debug the process. 
 
 **Link to work:** [Commit Day 03](https://github.com/Gonzalo2310/i18nEdit/commit/61d5dc1f12aa37c00a4a751ea4d7232428e30673)
+
+### Day 4: September 12 - 13, Thursday - Friday, 2019
+**Today's Progress**: The cycle that will mark the current and future evolution of the editor's capacity begins. This path is a little delicate and I lack knowledge.
+
+**Thoughts:** Today we have returned a little to the frustration of mishandled promises. This is an important stumbling block at a time when I need agility.
+
+**Link to work:** [Commit Day 04](https://github.com/Gonzalo2310/i18nEdit/commit/d616f64244e8795c6555fa2b9988a3ad9db0d6c2)
