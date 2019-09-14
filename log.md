@@ -41,3 +41,15 @@ A "decent" visual result has been achieved. And it has been possible to verify t
 If I improve the existing code, create a system of variables for predefined values that later must be altered by the user or if I go ahead with the improvement of the object obtained from the result of the recursive function.
 
 **Link to work:** [Commit Day 05](https://github.com/Gonzalo2310/i18nEdit/commit/020d3b1c4b22da237c293e145bc034bcf74e6e89)
+
+### Day 6: September 14, Saturday, 2019
+**Today's Progress**: Programmatic changes:
+* Use of private variables in objects. 
+* Functions to read and assign object properties. 
+* Added UUID to uniquely identify each node.
+* Independence of the UI. An intermediate function extracts data from the object to the ui. This allows a change from UI to future with less problems.
+
+**Thoughts:** The concept of Objects in Js is a bit particular. It makes me uncomfortable not to offer aesthetic changes as if no changes had been made.
+I'm thinking of a possible migration to TS in version 2.
+
+**Link to work:** [Commit Day 06](https://github.com/Gonzalo2310/i18nEdit/commit/7b9de7151d117639ee9502a381b7d6df08d4f902)
