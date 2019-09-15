@@ -53,3 +53,13 @@ If I improve the existing code, create a system of variables for predefined valu
 I'm thinking of a possible migration to TS in version 2.
 
 **Link to work:** [Commit Day 06](https://github.com/Gonzalo2310/i18nEdit/commit/7b9de7151d117639ee9502a381b7d6df08d4f902)
+
+### Day 7: September 15, Sunday, 2019
+**Today's Progress**: Aesthetic Changes. Color of files and folders in the tree. Folders are sorted first.
+Added a json with language codes. The next step is to organize each language separately.
+
+**Thoughts:** The challenge now is to know how the languages are organized. 
+The research led to 3 possibilities: In the names of the folders, in the names of the files or in the name of the root objects inside the files. This in JSON format.
+The language can be only the country or also country-region.
+
+**Link to work:** [Commit Day 07](https://github.com/Gonzalo2310/i18nEdit/commit/8ffe4caba6296bfa84c58b3bda3f1b742dd47ee1)
