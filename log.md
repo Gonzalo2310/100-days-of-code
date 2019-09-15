@@ -63,3 +63,10 @@ The research led to 3 possibilities: In the names of the folders, in the names o
 The language can be only the country or also country-region.
 
 **Link to work:** [Commit Day 07](https://github.com/Gonzalo2310/i18nEdit/commit/8ffe4caba6296bfa84c58b3bda3f1b742dd47ee1)
+
+### Day 8: September 16, Monday, 2019
+**Today's Progress**: The language recognition of each file has been started. This format is only 1/3 but will be used by the first alpha version.
+
+**Thoughts:** We need to start migrating all requests and results to the Vue store. These steps should be well documented to allow easy future migrations.
+
+**Link to work:** [Commit Day 08](https://github.com/Gonzalo2310/i18nEdit/commit/0f3b61c59f37405640889656b94d5f338f4ee336)
