@@ -70,3 +70,12 @@ The language can be only the country or also country-region.
 **Thoughts:** We need to start migrating all requests and results to the Vue store. These steps should be well documented to allow easy future migrations.
 
 **Link to work:** [Commit Day 08](https://github.com/Gonzalo2310/i18nEdit/commit/0f3b61c59f37405640889656b94d5f338f4ee336)
+
+### Day 9: September 17, Tuesday, 2019
+**Today's Progress**: The way of recognizing languages has been changed. And separated into two files (the region of a language (en-US / en -GB ) is an acronym for countries). 
+Although there is only one call to the api, the logica has already been transferred to Vue's store. The variables will be used from there.
+
+**Thoughts:** There is a possible bottleneck in the consultation of all languages and then each one individually. At this stage it may not be very relevant but for a final version it has to be adjusted.
+We have already entered the loading of contents and parsing. This is another point that will evolve with the product
+
+**Link to work:** [Commit Day 09](https://github.com/Gonzalo2310/i18nEdit/commit/f41448c8abcd73f3bbe86c6e305ae17c4f1df00c)
