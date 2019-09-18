@@ -79,3 +79,12 @@ Although there is only one call to the api, the logica has already been transfer
 We have already entered the loading of contents and parsing. This is another point that will evolve with the product
 
 **Link to work:** [Commit Day 09](https://github.com/Gonzalo2310/i18nEdit/commit/f41448c8abcd73f3bbe86c6e305ae17c4f1df00c)
+
+### Day 10: September 18, Wednesday, 2019
+**Today's Progress**: Complicated day in the obligations. Little progress. Failed attempt to search the array of objects for the value chosen by the user.
+
+**Thoughts:** Three main difficulties: Time, the logic of objects in Js and the type of response of the api. 
+
+The response of the api and the objects could be otherwise but I follow that path because they are things I want to learn.
+
+**Link to work:** [Commit Day 10](https://github.com/Gonzalo2310/i18nEdit/commit/6a981bdd5aeb6ef97d3925bae33517f3ad71c5c5)
