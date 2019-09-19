@@ -88,3 +88,10 @@ We have already entered the loading of contents and parsing. This is another poi
 The response of the api and the objects could be otherwise but I follow that path because they are things I want to learn.
 
 **Link to work:** [Commit Day 10](https://github.com/Gonzalo2310/i18nEdit/commit/6a981bdd5aeb6ef97d3925bae33517f3ad71c5c5)
+
+### Day 11: September 19, Thursday, 2019
+**Today's Progress**: I can't get out of the jam of the problem of the back objects replicated in the front. Change the path but the result is still not correct. Failure is part of the path of all creation.
+
+**Thoughts:** I have the same problems as before. Lack of knowledge and practice
+
+**Link to work:** [Commit Day 11](https://github.com/Gonzalo2310/i18nEdit/commit/2038c3fc4f0ede479a63fb82e3d4c7a3fdce77ba)
