@@ -95,3 +95,10 @@ The response of the api and the objects could be otherwise but I follow that pat
 **Thoughts:** I have the same problems as before. Lack of knowledge and practice
 
 **Link to work:** [Commit Day 11](https://github.com/Gonzalo2310/i18nEdit/commit/2038c3fc4f0ede479a63fb82e3d4c7a3fdce77ba)
+
+### Day 12: September 21, Saturday, 2019
+**Today's Progress**: One day update delay because it was jammed. I wanted to learn too many things at once and there has been a very big knowledge gap. Regression and rewriting of part of the code to take it to a more familiar terrain. I have already stepped forward.
+
+**Thoughts:** Rethink things more simply.
+
+**Link to work:** [Commit Day 12](https://github.com/Gonzalo2310/i18nEdit/commit/b2b6ca3af69a63ffb62b41fc7d6408e41df782d8)
