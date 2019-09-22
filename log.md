@@ -102,3 +102,15 @@ The response of the api and the objects could be otherwise but I follow that pat
 **Thoughts:** Rethink things more simply.
 
 **Link to work:** [Commit Day 12](https://github.com/Gonzalo2310/i18nEdit/commit/b2b6ca3af69a63ffb62b41fc7d6408e41df782d8)
+
+### Day 13: September 22, Sunday, 2019
+
+**Today's Progress**: At last. The content of the file of the selected language is obtained. 
+It's time to start assembling the project with a certain level of seriousness for others to test in a short time.
+
+**Thoughts:** 
+Construction of the UI.
+Back restructuring.
+Order of priorities changed.
+
+**Link to work:** [Commit Day 13](https://github.com/Gonzalo2310/i18nEdit/commit/d541ef2b71556c0acbac766b583e80678b6a79fb)
