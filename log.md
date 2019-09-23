@@ -114,3 +114,14 @@ Back restructuring.
 Order of priorities changed.
 
 **Link to work:** [Commit Day 13](https://github.com/Gonzalo2310/i18nEdit/commit/d541ef2b71556c0acbac766b583e80678b6a79fb)
+
+### Day 14: September 23-24, Monday - Tuesday, 2019
+
+**Today's Progress**: Improvements in the back. Start of UI. Implementation of locale. Delay of a few minutes of midnight mark as next day
+
+**Thoughts:** 
+Many changes applied. 
+You have to think about design on paper.
+Preparation on the march of the locale.
+
+**Link to work:** [Commit Day 14](https://github.com/Gonzalo2310/i18nEdit/commit/7262bce2b3d50993c5bb393f1a5c70230b4adceb)
