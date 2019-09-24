@@ -125,3 +125,13 @@ You have to think about design on paper.
 Preparation on the march of the locale.
 
 **Link to work:** [Commit Day 14](https://github.com/Gonzalo2310/i18nEdit/commit/7262bce2b3d50993c5bb393f1a5c70230b4adceb)
+
+### Day 15: September 24, Tuesday, 2019
+
+**Today's Progress**:A mini challenge has been developed in the frontend so that you can choose the UI framework to use without having to modify code.
+
+**Thoughts:** 
+* The vuetify library is giving a problem and will probably be changed for now.
+* I always have time very close to midnight and some commit is not made on the day indicated by the schedule.
+
+**Link to work:** [Commit Day 15](https://github.com/Gonzalo2310/i18nEdit/commit/636ce5f35c7d142c845b802b53a9fc5e40154d0a)
