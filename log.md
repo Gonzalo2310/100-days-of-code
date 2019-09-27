@@ -135,3 +135,13 @@ Preparation on the march of the locale.
 * I always have time very close to midnight and some commit is not made on the day indicated by the schedule.
 
 **Link to work:** [Commit Day 15](https://github.com/Gonzalo2310/i18nEdit/commit/636ce5f35c7d142c845b802b53a9fc5e40154d0a)
+
+### Day 16: September 27, Friday, 2019
+
+**Today's Progress**: A day skipped involuntarily. The multiple UI system will be integrated in a "grotesque" way because it is not the purpose of this project but it will serve for proofs of concept and usefulness.
+The next step is the assembly of the UI without functionality.
+
+**Thoughts:** 
+* Speed up the development of multiple UI so as not to delay in coding but to lose enthusiasm in the project.
+
+**Link to work:** [Commit Day 16](https://github.com/Gonzalo2310/i18nEdit/commit/ffcf8dde41fe5170bcf4df8048e0506e86c31f02)
