@@ -145,3 +145,17 @@ The next step is the assembly of the UI without functionality.
 * Speed up the development of multiple UI so as not to delay in coding but to lose enthusiasm in the project.
 
 **Link to work:** [Commit Day 16](https://github.com/Gonzalo2310/i18nEdit/commit/ffcf8dde41fe5170bcf4df8048e0506e86c31f02)
+
+### Day 17: September 28, Saturday, 2019
+
+**Today's Progress**: 've wasted some time with dynamic imports. I left it as a technical debt. 
+As I move forward I have collided with the mistake of reading errors too quickly. A bad interpretation wasted my time. The UI advances. Today it was slow.
+But no time has been wasted. There is a rearrangement of files. A better understanding of the idea to optimize it. And new unknowns have been discovered that need to be improved.
+
+**Thoughts:** 
+* The UI system has to move at a better pace.
+* Dynamic loads must be optimized if more UI ibreries are to be included.
+* The attempt with Vuetify failed and remains a technical debt.
+* There is a validation code in InButton that must be improved before continuing.
+
+**Link to work:** [Commit Day 17](https://github.com/Gonzalo2310/i18nEdit/commit/997e7e2e126a2b5aa7bbbeb9fd27f9051a305853)
