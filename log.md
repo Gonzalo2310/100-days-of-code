@@ -159,3 +159,18 @@ But no time has been wasted. There is a rearrangement of files. A better underst
 * There is a validation code in InButton that must be improved before continuing.
 
 **Link to work:** [Commit Day 17](https://github.com/Gonzalo2310/i18nEdit/commit/997e7e2e126a2b5aa7bbbeb9fd27f9051a305853)
+
+
+
+### Day 18: September 29, Sunday, 2019
+
+**Today's Progress**: Today there is not much concentration but a step has been taken. The UI advances and soon it will be complete and I will move to my favorite place: Functionalities.
+Phrase for today: The continuous aesthetic improvement of something that still doesn't work can be a symptom of fear of taking the next step.
+
+
+
+**Thoughts:** 
+
+We continue with the same difficulties as the day before.
+
+**Link to work:** [Commit Day 18](https://github.com/Gonzalo2310/i18nEdit/commit/4e1f1f2dd21ba5ecd63756e6f2e2435421e21fca)
