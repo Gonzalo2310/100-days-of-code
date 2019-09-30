@@ -161,16 +161,24 @@ But no time has been wasted. There is a rearrangement of files. A better underst
 **Link to work:** [Commit Day 17](https://github.com/Gonzalo2310/i18nEdit/commit/997e7e2e126a2b5aa7bbbeb9fd27f9051a305853)
 
 
-
 ### Day 18: September 29, Sunday, 2019
 
 **Today's Progress**: Today there is not much concentration but a step has been taken. The UI advances and soon it will be complete and I will move to my favorite place: Functionalities.
 Phrase for today: The continuous aesthetic improvement of something that still doesn't work can be a symptom of fear of taking the next step.
-
-
 
 **Thoughts:** 
 
 We continue with the same difficulties as the day before.
 
 **Link to work:** [Commit Day 18](https://github.com/Gonzalo2310/i18nEdit/commit/4e1f1f2dd21ba5ecd63756e6f2e2435421e21fca)
+
+### Day 19: September 30, Monday, 2019
+
+**Today's Progress**: I have days repeating the same kind of progress. Sorry about the boredom.
+More UI creation. Surely the whole week will be more or less the same.
+I think that before the 30 days I will be able to share material for those who want to try things.
+
+**Thoughts:** 
+Idem
+
+**Link to work:** [Commit Day 19](https://github.com/Gonzalo2310/i18nEdit/commit/29e7cdec862d935e0df935bc63084d7269e4c321)
