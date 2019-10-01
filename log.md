@@ -182,3 +182,18 @@ I think that before the 30 days I will be able to share material for those who w
 Idem
 
 **Link to work:** [Commit Day 19](https://github.com/Gonzalo2310/i18nEdit/commit/29e7cdec862d935e0df935bc63084d7269e4c321)
+
+### Day 20: October 1, Thursday, 2019
+
+**Today's Progress**: Another step has been added to the UI. Tired of drawing views now I will start to make them useful (One in special I have no idea how to do it).
+
+Tip: Don't worry, what we've been programming for a while we also see that everyone else has super fantastic ideas and ours seems small next to it.
+
+Tip: Use a time trial for tasks. It helps a lot not to disperse.
+
+**Thoughts:** 
+* I'll move on to functionality on the UI created because I'm a little bored with design.
+* Now that there are elements of the multiple UI would have to optimize the operation.
+* I am faced with another interesting but unknown functionality: Tree of files.
+
+**Link to work:** [Commit Day 20](https://github.com/Gonzalo2310/i18nEdit/commit/1ae4dd49c857da24c7ca05397496c2f408a647ed)
