@@ -183,7 +183,7 @@ Idem
 
 **Link to work:** [Commit Day 19](https://github.com/Gonzalo2310/i18nEdit/commit/29e7cdec862d935e0df935bc63084d7269e4c321)
 
-### Day 20: October 1, Thursday, 2019
+### Day 20: October 1, Tuesday, 2019
 
 **Today's Progress**: Another step has been added to the UI. Tired of drawing views now I will start to make them useful (One in special I have no idea how to do it).
 
@@ -197,3 +197,13 @@ Tip: Use a time trial for tasks. It helps a lot not to disperse.
 * I am faced with another interesting but unknown functionality: Tree of files.
 
 **Link to work:** [Commit Day 20](https://github.com/Gonzalo2310/i18nEdit/commit/1ae4dd49c857da24c7ca05397496c2f408a647ed)
+
+### Day 21: October 2, Wednesday, 2019
+
+**Today's Progress**: It's been a busy day. But that's what the challenge is all about. To find the moment. The basic UI is finished. 
+It still remains to modify the type of load of elements and make it more dynamic (I would be ashamed to show it so). 
+
+**Thoughts:** 
+The main problem of the month of October  is the time. At least until the online conference on the 12th.
+
+**Link to work:** [Commit Day 21](https://github.com/Gonzalo2310/i18nEdit/commit/dac0468eff57fa6ef148e32b67de3d3bc0f15195)
