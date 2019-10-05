@@ -207,3 +207,25 @@ It still remains to modify the type of load of elements and make it more dynamic
 The main problem of the month of October  is the time. At least until the online conference on the 12th.
 
 **Link to work:** [Commit Day 21](https://github.com/Gonzalo2310/i18nEdit/commit/dac0468eff57fa6ef148e32b67de3d3bc0f15195)
+
+
+
+### Day 22: October 4, Friday, 2019
+
+**Today's Progress**: I don't have a good rhythm and that must change or I won't advance properly. Things to do that take up my time are a lot like excuses.
+
+**Thoughts:** 
+Intense week and short periods of time. It is necessary to perfect the organization.
+
+**Link to work:** [Commit Day 22](https://github.com/Gonzalo2310/i18nEdit/commit/827fdd8955bf8f4e4031cb97212c98618b5d0209)
+
+### Day 23: October 5, Saturday, 2019
+
+**Today's Progress**: Advance of backend processes. creation of project file. Now every step and action will have footprint on that file. (each action? we'll see)
+
+**Thoughts:** 
+* Today's process has been something without content controls or double existence. 
+* We have to do those controls and then take the next step.
+* The project has few forms but we have to leave them solid.
+
+**Link to work:** [Commit Day 23](https://github.com/Gonzalo2310/i18nEdit/commit/c19872bfdda1c0ce5084be83388b7dee60e023da)
