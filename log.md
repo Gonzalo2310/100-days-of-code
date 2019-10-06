@@ -229,3 +229,18 @@ Intense week and short periods of time. It is necessary to perfect the organizat
 * The project has few forms but we have to leave them solid.
 
 **Link to work:** [Commit Day 23](https://github.com/Gonzalo2310/i18nEdit/commit/c19872bfdda1c0ce5084be83388b7dee60e023da)
+
+
+### Day 24: October 6, Sunday, 2019
+
+**Today's Progress**: It hasn't been a great update but I'm starting a "delicate" way of managing files.
+Slight progress was made. 
+There will be no more updates on Sundays.
+
+**Thoughts:** 
+
+* Many controls are missing. 
+* Slight progress due to lack of knowledge.
+* Day without much inspiration
+
+**Link to work:** [Commit Day 24](https://github.com/Gonzalo2310/i18nEdit/commit/6ab9cdee05bec0d442d6cf716f59d36bb88d0904)
