@@ -244,3 +244,26 @@ There will be no more updates on Sundays.
 * Day without much inspiration
 
 **Link to work:** [Commit Day 24](https://github.com/Gonzalo2310/i18nEdit/commit/6ab9cdee05bec0d442d6cf716f59d36bb88d0904)
+
+### Day 25: October 14, Monday, 2019
+
+**Today's Progress**: I had to stop the project for a week due to work overload.
+We have come back and continue with the following changes: 
+
+* Back: 
+  * The use of hidden functions and fields in the tree object was eliminated.
+  * The object tree and tree-ui have been rewritten.
+* Front:
+  * The secondary project Multi UI was removed to keep the focus.
+  * The store of Vuejs has been modified to modular mode.
+  * A global configuration of Axios with interceptors for error control has been created.
+  * The components have been rewritten adapting them to a single UI (element-ui).
+  * 3 scss (desktop, tablet and mobile) have been added to perform the responsive when the time comes.
+
+**Thoughts:** 
+
+* We're back to fighting promises.
+* Organization.
+* Focus (stop creating ramifications of the original idea before finishing the main thing)
+
+**Link to work:** [Commit Day 25](https://github.com/Gonzalo2310/i18nEdit/commit/63d50c44fa9813d044a8a87b06888f61c525fa47)
