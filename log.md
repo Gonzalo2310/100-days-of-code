@@ -267,3 +267,17 @@ We have come back and continue with the following changes:
 * Focus (stop creating ramifications of the original idea before finishing the main thing)
 
 **Link to work:** [Commit Day 25](https://github.com/Gonzalo2310/i18nEdit/commit/63d50c44fa9813d044a8a87b06888f61c525fa47)
+
+
+
+### Day 26: October 16, Wednesday, 2019
+
+**Today's Progress**: We have started to create the configuration file with the specific data of the project.
+
+This is important in order to keep the project created with the program up to date. 
+
+**Thoughts:** 
+
+* Time
+
+**Link to work:** [Commit Day 26](https://github.com/Gonzalo2310/i18nEdit/commit/807c673ebc3650ead7beb60f4a4a08c0a06ff17d)
