@@ -281,3 +281,15 @@ This is important in order to keep the project created with the program up to da
 * Time
 
 **Link to work:** [Commit Day 26](https://github.com/Gonzalo2310/i18nEdit/commit/807c673ebc3650ead7beb60f4a4a08c0a06ff17d)
+
+
+
+### Day 27: October 17, Tuesday, 2019
+
+**Today's Progress**: Made a 50% of the module of choice of work folder.
+
+**Thoughts:** 
+
+* Time
+
+**Link to work:** [Commit Day 27](https://github.com/Gonzalo2310/i18nEdit/commit/7d260497b989ebc9dfab84d58379ed4393bf46e6)
