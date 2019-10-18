@@ -284,7 +284,7 @@ This is important in order to keep the project created with the program up to da
 
 
 
-### Day 27: October 17, Tuesday, 2019
+### Day 27: October 17, Thursday, 2019
 
 **Today's Progress**: Made a 50% of the module of choice of work folder.
 
@@ -293,3 +293,17 @@ This is important in order to keep the project created with the program up to da
 * Time
 
 **Link to work:** [Commit Day 27](https://github.com/Gonzalo2310/i18nEdit/commit/7d260497b989ebc9dfab84d58379ed4393bf46e6)
+
+
+
+### Day 28: October 17, Friday, 2019
+
+**Today's Progress**: Almost complete the folder explorer (80%).
+Wanting to complete the configuration of the project to make functionalities (there is still a step of global configuration)
+
+**Thoughts:** 
+
+* I need a roadmap
+* Setting goals and deadlines
+
+**Link to work:** [Commit Day 28](https://github.com/Gonzalo2310/i18nEdit/commit/0f6227ac52e882bb720211f410bd4f447a876707)
